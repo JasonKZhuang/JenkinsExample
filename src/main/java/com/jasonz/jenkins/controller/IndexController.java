@@ -11,7 +11,7 @@ public class IndexController
 	@RequestMapping("/")
 	public String index()
 	{
-		return "Greetings from Spring Boot!" + new Date();
+		return "Greetings from Spring Boot!111" + new Date();
 	}
 
 }
