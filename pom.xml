@@ -14,7 +14,7 @@
 	<version>1.0.0</version>
 	<name>JenkinsExample</name>
 	<description>Using Jenkins to test pipeline CD CI</description>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	
 	<properties>
 		<java.version>11</java.version>
